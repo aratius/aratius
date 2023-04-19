@@ -8,6 +8,3 @@ I am Arata Matsumoto, a 22-year-old media art student based in Japan. As a freel
  
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratius&layout=compact)](https://github.com/aratius/github-readme-stats)
-
-### Twitter
-[![My Twitter Followers](https://badgen.net/twitter/follow/aualrxse)](https://twitter.com/aualrxse)
